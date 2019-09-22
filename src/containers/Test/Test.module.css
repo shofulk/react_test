@@ -1,0 +1,16 @@
+.Test{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background: hsl(172, 96%, 29%);
+    flex-grow: 1;
+    padding-top: 100px;
+}
+
+.H1{
+    color: white;
+}
+
+.TestWrapper{
+    width: 600px;
+}

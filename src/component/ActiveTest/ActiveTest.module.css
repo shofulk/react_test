@@ -1,0 +1,11 @@
+.ActiveTest{
+    color: white;
+    padding: 20px;
+    border-bottom: 1px solid white;
+    box-sizing: border-box;
+}
+
+.question{
+    display: flex;
+    justify-content: space-between;
+}

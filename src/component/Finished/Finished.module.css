@@ -1,0 +1,16 @@
+.Finished{
+    padding: 20px;
+    color: white;
+    border-bottom: 2px solid #fff;
+    box-sizing: border-box;
+}
+
+.Finished ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.Finished ul li{
+
+}

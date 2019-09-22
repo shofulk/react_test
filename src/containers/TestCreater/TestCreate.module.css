@@ -1,0 +1,24 @@
+.TestCreate{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    flex-grow: 1;
+    width: 100%;
+    background: linear-gradient(270deg, rgb(190, 4, 4) 0%, #f0783c 100%);
+}
+
+.TestCreate > div{
+    width: 100%;
+    max-width: 600px;
+    padding: 0 20px;
+}
+
+.TestCreate h1{
+    text-align: center;
+}
+
+.TestCreate form{
+    background: #eee;
+    border-radius: 5px;
+    padding: 15px;
+}
